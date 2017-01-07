@@ -1,0 +1,87 @@
+../test/CompileErr.c:3:7: warning: explicitly assigning value of variable of type 'int' to itself [-Wself-assign]
+    i = i
+    ~ ^ ~
+../test/CompileErr.c:3:10: error: expected ';' after expression
+    i = i
+         ^
+         ;
+1 warning and 1 error generated.
+
+real	0m0.044s
+user	0m0.028s
+sys	0m0.008s
+
+real	0m0.066s
+user	0m0.028s
+sys	0m0.024s
+../test/TimeOut.c:4:14: warning: implicitly declaring library function 'scanf' with type 'int (const char *restrict, ...)' [-Wimplicit-function-declaration]
+        while (2 == scanf("%d%d", &a, &b))
+                    ^
+../test/TimeOut.c:4:14: note: include the header <stdio.h> or explicitly provide a declaration for 'scanf'
+../test/TimeOut.c:5:3: warning: implicitly declaring library function 'printf' with type 'int (const char *, ...)' [-Wimplicit-function-declaration]
+                printf("%d\n", a+b);
+                ^
+../test/TimeOut.c:5:3: note: include the header <stdio.h> or explicitly provide a declaration for 'printf'
+2 warnings generated.
+
+real	0m1.061s
+user	0m0.028s
+sys	0m0.020s
+../test/MemoryOut.c:5:14: warning: implicitly declaring library function 'scanf' with type 'int (const char *restrict, ...)' [-Wimplicit-function-declaration]
+        while (2 == scanf("%d%d", &a, &b))
+                    ^
+../test/MemoryOut.c:5:14: note: include the header <stdio.h> or explicitly provide a declaration for 'scanf'
+../test/MemoryOut.c:6:3: warning: implicitly declaring library function 'printf' with type 'int (const char *, ...)' [-Wimplicit-function-declaration]
+                printf("%d\n", a+b);
+                ^
+../test/MemoryOut.c:6:3: note: include the header <stdio.h> or explicitly provide a declaration for 'printf'
+2 warnings generated.
+
+real	0m0.087s
+user	0m0.036s
+sys	0m0.040s
+../test/RuntimeErr.c:3:14: warning: implicitly declaring library function 'scanf' with type 'int (const char *restrict, ...)' [-Wimplicit-function-declaration]
+        while (2 == scanf("%d%d", &a, &b))
+                    ^
+../test/RuntimeErr.c:3:14: note: include the header <stdio.h> or explicitly provide a declaration for 'scanf'
+../test/RuntimeErr.c:4:3: warning: implicitly declaring library function 'printf' with type 'int (const char *, ...)' [-Wimplicit-function-declaration]
+                printf("%d\n", a+b);
+                ^
+../test/RuntimeErr.c:4:3: note: include the header <stdio.h> or explicitly provide a declaration for 'printf'
+../test/RuntimeErr.c:1:12: warning: all paths through this function will call itself [-Winfinite-recursion]
+int main() {
+           ^
+3 warnings generated.
+
+real	0m2.235s
+user	0m0.160s
+sys	0m1.244s
+../test/WrongAnswer.c:3:14: warning: implicitly declaring library function 'scanf' with type 'int (const char *restrict, ...)' [-Wimplicit-function-declaration]
+        while (2 == scanf("%d%d", &a, &b))
+                    ^
+../test/WrongAnswer.c:3:14: note: include the header <stdio.h> or explicitly provide a declaration for 'scanf'
+../test/WrongAnswer.c:4:3: warning: implicitly declaring library function 'printf' with type 'int (const char *, ...)' [-Wimplicit-function-declaration]
+                printf("%d\n", a-b);
+                ^
+../test/WrongAnswer.c:4:3: note: include the header <stdio.h> or explicitly provide a declaration for 'printf'
+2 warnings generated.
+Input:^1 2$
+Output:^-1$
+Expected:^3$
+
+real	0m0.068s
+user	0m0.040s
+sys	0m0.016s
+../test/PreErr.c:3:14: warning: implicitly declaring library function 'scanf' with type 'int (const char *restrict, ...)' [-Wimplicit-function-declaration]
+        while (2 == scanf("%d%d", &a, &b))
+                    ^
+../test/PreErr.c:3:14: note: include the header <stdio.h> or explicitly provide a declaration for 'scanf'
+../test/PreErr.c:4:3: warning: implicitly declaring library function 'printf' with type 'int (const char *, ...)' [-Wimplicit-function-declaration]
+                printf(" %d\n", a+b);
+                ^
+../test/PreErr.c:4:3: note: include the header <stdio.h> or explicitly provide a declaration for 'printf'
+2 warnings generated.
+
+real	0m0.067s
+user	0m0.032s
+sys	0m0.020s
