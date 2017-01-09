@@ -1,0 +1,4 @@
+#!/bin/bash
+time toy/main src/source.c testdata
+time toyO/main src/source.c testdata
+

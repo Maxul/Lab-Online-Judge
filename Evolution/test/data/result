@@ -1,0 +1,234 @@
+
+Accept , Accepted
+
+BufferOverrun , Runtime Error
+
+CompileErr , Compile Error
+
+ConstPtr , Runtime Error
+
+FileOpen , Runtime Error
+
+InvalidSyscall , Runtime Error
+
+MemoryOut , Memory Limit Exceeded
+
+OutputLimit , Output Limit Exceeded
+
+PreErr , Presentation Error
+
+RuntimeErr , Runtime Error
+
+StackOver , Runtime Error
+
+TimeOut , Time Limit Exceeded
+
+WrongAnswer , Wrong Anwser
+
+Accept , Accepted
+
+BufferOverrun , Runtime Error
+
+CompileErr , Compile Error
+
+ConstPtr , Runtime Error
+
+FileOpen , Runtime Error
+
+InvalidSyscall , Runtime Error
+
+MemoryOut , Memory Limit Exceeded
+
+OutputLimit , Output Limit Exceeded
+
+PreErr , Presentation Error
+
+RuntimeErr , Runtime Error
+
+StackOver , Runtime Error
+
+TimeOut , Time Limit Exceeded
+
+WrongAnswer , Wrong Anwser
+
+Accept , Accepted
+
+BufferOverrun , Runtime Error
+
+CompileErr , Compile Error
+
+ConstPtr , Runtime Error
+
+FileOpen , Runtime Error
+
+InvalidSyscall , Runtime Error
+
+MemoryOut , Memory Limit Exceeded
+
+OutputLimit , Output Limit Exceeded
+
+PreErr , Presentation Error
+
+RuntimeErr , Runtime Error
+
+StackOver , Runtime Error
+
+TimeOut , Time Limit Exceeded
+
+WrongAnswer , Wrong Anwser
+
+Accept , Output Limit Exceeded
+
+BufferOverrun , Runtime Error
+
+CompileErr , Compile Error
+
+ConstPtr , Runtime Error
+
+FileOpen , Runtime Error
+
+InvalidSyscall , Runtime Error
+
+MemoryOut , Memory Limit Exceeded
+
+OutputLimit , Output Limit Exceeded
+
+PreErr , Output Limit Exceeded
+
+RuntimeErr , Runtime Error
+
+StackOver , Runtime Error
+
+TimeOut , Time Limit Exceeded
+
+WrongAnswer , Output Limit Exceeded
+
+Accept , Output Limit Exceeded
+
+BufferOverrun , Runtime Error
+
+CompileErr , Compile Error
+
+ConstPtr , Runtime Error
+
+FileOpen , Runtime Error
+
+InvalidSyscall , Runtime Error
+
+MemoryOut , Memory Limit Exceeded
+
+OutputLimit , Output Limit Exceeded
+
+PreErr , Output Limit Exceeded
+
+RuntimeErr , Runtime Error
+
+StackOver , Runtime Error
+
+TimeOut , Time Limit Exceeded
+
+WrongAnswer , Output Limit Exceeded
+
+Accept , Output Limit Exceeded
+
+BufferOverrun , Runtime Error
+
+CompileErr , Compile Error
+
+ConstPtr , Runtime Error
+
+FileOpen , Runtime Error
+
+InvalidSyscall , Runtime Error
+
+MemoryOut , Memory Limit Exceeded
+
+OutputLimit , Output Limit Exceeded
+
+PreErr , Output Limit Exceeded
+
+RuntimeErr , Runtime Error
+
+StackOver , Runtime Error
+
+TimeOut , Time Limit Exceeded
+
+WrongAnswer , Output Limit Exceeded
+
+Accept , Output Limit Exceeded
+
+BufferOverrun , Runtime Error
+
+CompileErr , Compile Error
+
+ConstPtr , Runtime Error
+
+FileOpen , Runtime Error
+
+InvalidSyscall , Runtime Error
+
+MemoryOut , Memory Limit Exceeded
+
+OutputLimit , Output Limit Exceeded
+
+PreErr , Output Limit Exceeded
+
+RuntimeErr , Runtime Error
+
+StackOver , Runtime Error
+
+TimeOut , Time Limit Exceeded
+
+WrongAnswer , Output Limit Exceeded
+
+Accept , Accepted
+
+BufferOverrun , Runtime Error
+
+CompileErr , Compile Error
+
+ConstPtr , Runtime Error
+
+FileOpen , Runtime Error
+
+InvalidSyscall , Runtime Error
+
+MemoryOut , Memory Limit Exceeded
+
+OutputLimit , Wrong Anwser
+
+PreErr , Presentation Error
+
+RuntimeErr , Runtime Error
+
+StackOver , Runtime Error
+
+TimeOut , Time Limit Exceeded
+
+WrongAnswer , Wrong Anwser
+
+Accept , Accepted
+
+BufferOverrun , Runtime Error
+
+CompileErr , Compile Error
+
+ConstPtr , Runtime Error
+
+FileOpen , Runtime Error
+
+InvalidSyscall , Runtime Error
+
+MemoryOut , Memory Limit Exceeded
+
+OutputLimit , Wrong Anwser
+
+PreErr , Presentation Error
+
+RuntimeErr , Runtime Error
+
+StackOver , Runtime Error
+
+TimeOut , Time Limit Exceeded
+
+WrongAnswer , Wrong Anwser

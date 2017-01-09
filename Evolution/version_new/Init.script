@@ -1,0 +1,12 @@
+#define MAX_MEMORY
+2^24
+
+#define MAX_TIME
+1500
+
+#define MAX_OUTPUT
+2^22
+
+#define MAX_LINE_LEN
+80
+
